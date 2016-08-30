@@ -9,7 +9,7 @@ import java.util.Scanner;
 import org.apache.log4j.Logger;
 
 
-
+//yoooman
 public class LoggingSample {
 	
 	private static Logger logger=Logger.getLogger("LoggingSample");
