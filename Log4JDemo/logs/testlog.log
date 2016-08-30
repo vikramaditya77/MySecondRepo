@@ -1,0 +1,55 @@
+2015-02-17 10:45:40,012 - LoggingSample - WARN - This is a warning message
+2015-02-17 10:45:40,012 - LoggingSample - INFO - This message will not be logged since log level is set as DEBUG
+2015-02-17 10:48:46,573 - LoggingSample - TRACE - File Not Found
+java.io.FileNotFoundException: D:\textfile.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at LoggingSample.main(LoggingSample.java:17)
+2015-02-17 10:48:46,583 - LoggingSample - WARN - This is a warning message
+2015-02-17 10:48:46,583 - LoggingSample - INFO - This message will not be logged since log level is set as DEBUG
+2015-02-17 10:49:35,074 - LoggingSample - FATAL - This is fatal message
+2016-07-05 12:05:29,950 - LoggingSample - INFO - Created Scanner Object
+2016-07-05 12:05:46,963 - LoggingSample - INFO - Entered first no
+2016-07-05 12:05:58,689 - LoggingSample - INFO - Entered Second No
+2016-07-05 12:05:58,690 - LoggingSample - WARN - zero entered in no2
+2016-07-05 12:10:38,431 - LoggingSample - INFO - Created Scanner Object
+2016-07-05 12:14:07,422 - LoggingSample - INFO - Created Scanner Object
+2016-07-05 12:14:17,988 - LoggingSample - INFO - Entered first no
+2016-07-05 12:14:21,437 - LoggingSample - FATAL - Program Terminatedjava.util.InputMismatchException
+2016-07-12 11:37:53,274 - LoggingSample - INFO - Created Scanner Object
+2016-07-12 11:37:57,160 - LoggingSample - INFO - Entered first no
+2016-07-12 11:38:03,480 - LoggingSample - INFO - Entered Second No
+2016-07-12 11:38:03,481 - LoggingSample - INFO - Calculated Response
+2016-07-13 12:49:14,776 - LoggingSample - INFO - Created Scanner Object
+2016-07-13 12:49:20,845 - LoggingSample - INFO - Entered first no
+2016-07-13 12:49:32,565 - LoggingSample - INFO - Entered Second No
+2016-07-13 12:49:32,565 - LoggingSample - INFO - Calculated Response
+2016-07-13 12:50:22,565 - LoggingSample - INFO - Created Scanner Object
+2016-07-13 12:50:49,367 - LoggingSample - INFO - Created Scanner Object
+2016-07-13 12:51:49,193 - LoggingSample - INFO - Entered first no
+2016-07-13 12:51:52,105 - LoggingSample - INFO - Entered Second No
+2016-07-13 12:51:52,106 - LoggingSample - INFO - Calculated Response
+2016-07-13 12:54:57,083 - LoggingSample - INFO - Created Scanner Object
+2016-07-13 12:55:18,960 - LoggingSample - INFO - Entered first no
+2016-07-13 12:55:23,713 - LoggingSample - INFO - Entered Second No
+2016-07-13 12:55:23,713 - LoggingSample - INFO - Calculated Response
+2016-07-13 12:55:49,839 - LoggingSample - INFO - Created Scanner Object
+2016-07-13 12:56:01,490 - LoggingSample - INFO - Entered first no
+2016-07-13 12:56:03,098 - LoggingSample - INFO - Entered Second No
+2016-07-13 12:56:03,098 - LoggingSample - INFO - Calculated Response
+2016-07-13 12:58:46,870 - LoggingSample - INFO - Created Scanner Object
+2016-07-13 13:02:46,425 - LoggingSample - INFO - Created Scanner Object
+2016-07-13 13:04:06,163 - LoggingSample - INFO - Created Scanner Object
+2016-07-13 13:04:23,312 - LoggingSample - DEBUG - Created Scanner Object
+2016-07-13 13:04:45,314 - LoggingSample - DEBUG - Created Scanner Object
+2016-07-13 13:04:49,637 - LoggingSample - INFO - Entered first no
+2016-07-13 13:05:02,230 - LoggingSample - DEBUG - Entered Second No
+2016-07-13 13:05:02,231 - LoggingSample - DEBUG - Calculated Response
+2016-07-13 13:08:51,580 - LoggingSample - INFO - Created Scanner Object
+2016-07-13 13:09:12,753 - LoggingSample - INFO - Created Scanner Object
+2016-07-13 13:09:22,719 - LoggingSample - INFO - Entered first no
+2016-07-13 13:09:25,151 - LoggingSample - INFO - Entered Second No
+2016-07-13 13:09:25,151 - LoggingSample - INFO - Calculated Response
+2016-07-13 15:57:21,943 - LoggingSample - INFO - Created Scanner Object
+2016-07-13 15:57:41,992 - LoggingSample - FATAL - Program Terminatedjava.util.InputMismatchException
