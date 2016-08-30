@@ -11,6 +11,7 @@ import org.apache.log4j.Logger;
 
 //yoooman
 //mybranchcommit
+//secondLocalCommit
 public class LoggingSample {
 	
 	private static Logger logger=Logger.getLogger("LoggingSample");
